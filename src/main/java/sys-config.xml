@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<db-info>
+		<driver-name>oracle.jdbc.driver.OracleDriver</driver-name>
+		<url>jdbc:oracle:thin:@192.168.89.111:1521:radius</url>
+		<user-name>mydradius</user-name>
+		<password>mydradius</password>
+	</db-info>
+</config>
