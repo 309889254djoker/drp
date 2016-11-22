@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: drp
-Bundle-SymbolicName: drp
-Bundle-Version: 1.0.0.qualifier
-Export-Package: com.bjpowernode.drp.sysmgr.domain,
- com.bjpowernode.drp.sysmgr.manager,
- com.bjpowernode.drp.util,
- drp

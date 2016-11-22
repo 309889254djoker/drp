@@ -6,7 +6,7 @@ import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
-
+ 
 /**
  * 采用单例模式解析sys-config.xml文件
  * @author ddh

@@ -3,7 +3,7 @@
     
 <%@ page import="com.bjpowernode.drp.sysmgr.domain.*" %>
 <%@ page import="com.bjpowernode.drp.sysmgr.manager.*" %>
-<%
+<% 
 	request.setCharacterEncoding("GB18030");
 	String command = request.getParameter("command");
 	String userId = request.getParameter("userId");

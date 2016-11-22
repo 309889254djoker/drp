@@ -2,7 +2,7 @@
     pageEncoding="GB18030"%>
 <%@ page import="java.util.*" %>
 <%@ page import="java.text.*" %>
-<%@ page import="com.bjpowernode.drp.sysmgr.manager.*" %>
+<%@ page import="com.bjpowernode.drp.sysmgr.manager.*" %> 
 <%@ page import="com.bjpowernode.drp.sysmgr.domain.*" %>
 <%@ page import="com.bjpowernode.drp.util.*" %>
 

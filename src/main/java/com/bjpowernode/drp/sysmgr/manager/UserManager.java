@@ -12,7 +12,7 @@ import java.util.List;
 import com.bjpowernode.drp.sysmgr.domain.User;
 import com.bjpowernode.drp.util.DbUtil;
 import com.bjpowernode.drp.util.PageModel;
-/**
+/** 
  * 采用单例模式管理用户
  * @author ddh
  *
